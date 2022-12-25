@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "b59d3c0c56e01012",
+    "type": "split",
+    "children": [
+      {
+        "id": "b172559b837062b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e41f4f858ef6aa94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Fiber Classification.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "233ae231371788cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Regenrated Fibers.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c26bda64cadcf313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Synthetic Fibers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18421bcec00b204b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Inorganic Fibers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1afaa32eb5265c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Regenrated Fibers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2f62fe5321eb40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Regenrated Fibers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4601cb9e4f488a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MMTF/Intro To MMTF/NF Vs MMF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d24cfa30d1f8b88",
+    "type": "split",
+    "children": [
+      {
+        "id": "6877549a4751b528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350329b7d7f669c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "eaf500ecf5f90a77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df625fe1d2d7c43c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "65be887521f59787",
+    "type": "split",
+    "children": [
+      {
+        "id": "0978e55227a8076d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b00ec6cdf9b3f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Fiber Classification.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e255ee5f076ab92c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Fiber Classification.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "265548797dd2fb54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c90bf2354d010ab7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MMTF/Intro To MMTF/Fiber Classification.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "350329b7d7f669c9",
+  "lastOpenFiles": [
+    "MMTF/Intro To MMTF/Synthetic Fibers.md",
+    "MMTF/Intro To MMTF/Regenrated Fibers.md",
+    "MMTF/Intro To MMTF/Inorganic Fibers.md",
+    "MMTF/Intro To MMTF/NF Vs MMF.md",
+    "MMTF/Intro To MMTF/Fiber Classification.md",
+    "MMTF/Intro To MMTF/Manmade Fibers Classifications.md",
+    "Untitled.md"
+  ]
+}
