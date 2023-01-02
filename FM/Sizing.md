@@ -1,0 +1,1 @@
+Sizing is the process of applying  a protective coating upon the  yarn surface so that the yarn will  suffer the least damage in  weaving 

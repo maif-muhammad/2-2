@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b172559b837062b6",
+        "id": "090baa1237e80575",
         "type": "tabs",
         "children": [
           {
-            "id": "e41f4f858ef6aa94",
+            "id": "7934a7fa0e089b7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMTF/Intro To MMTF/Fiber Classification.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "233ae231371788cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMTF/Intro To MMTF/Regenrated Fibers.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c26bda64cadcf313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMTF/Intro To MMTF/Synthetic Fibers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18421bcec00b204b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMTF/Intro To MMTF/Inorganic Fibers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1afaa32eb5265c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMTF/Intro To MMTF/Regenrated Fibers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2f62fe5321eb40f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMTF/Intro To MMTF/Regenrated Fibers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4601cb9e4f488a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MMTF/Intro To MMTF/NF Vs MMF.md",
+                "file": "FM/Manufacturing Steps of Woven Fabrics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "65be887521f59787",
@@ -159,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMTF/Intro To MMTF/Fiber Classification.md",
+                "file": "FM/Manufacturing Steps of Woven Fabrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMTF/Intro To MMTF/Fiber Classification.md",
+                "file": "FM/Manufacturing Steps of Woven Fabrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMTF/Intro To MMTF/Fiber Classification.md"
+                "file": "FM/Manufacturing Steps of Woven Fabrics.md"
               }
             }
           }
@@ -210,14 +136,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "350329b7d7f669c9",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7934a7fa0e089b7d",
   "lastOpenFiles": [
+    "FM/Winding.md",
+    "README.md",
+    "FM/Pasted image 20230101201133.png",
+    "FM/Manufacturing Steps of Woven Fabrics.md",
+    "FM/Sizing.md",
+    "FM/Warping.md",
+    "MMTF/Intro To MMTF/Fiber Classification.md",
     "MMTF/Intro To MMTF/Synthetic Fibers.md",
     "MMTF/Intro To MMTF/Regenrated Fibers.md",
-    "MMTF/Intro To MMTF/Inorganic Fibers.md",
-    "MMTF/Intro To MMTF/NF Vs MMF.md",
-    "MMTF/Intro To MMTF/Fiber Classification.md",
-    "MMTF/Intro To MMTF/Manmade Fibers Classifications.md",
-    "Untitled.md"
+    "MMTF/Intro To MMTF/Inorganic Fibers.md"
   ]
 }
