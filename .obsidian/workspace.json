@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a44451ee04f203c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YM/Introduction.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "65be887521f59787",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FM/Manufacturing Steps of Woven Fabrics.md",
+                "file": "YM/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FM/Manufacturing Steps of Woven Fabrics.md",
+                "file": "YM/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FM/Manufacturing Steps of Woven Fabrics.md"
+                "file": "YM/Introduction.md"
               }
             }
           }
@@ -146,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7934a7fa0e089b7d",
+  "active": "a44451ee04f203c3",
   "lastOpenFiles": [
+    "FM/Manufacturing Steps of Woven Fabrics.md",
+    "YM/Introduction.md",
     "FM/Winding.md",
     "README.md",
     "FM/Pasted image 20230101201133.png",
-    "FM/Manufacturing Steps of Woven Fabrics.md",
     "FM/Sizing.md",
     "FM/Warping.md",
     "MMTF/Intro To MMTF/Fiber Classification.md",
     "MMTF/Intro To MMTF/Synthetic Fibers.md",
-    "MMTF/Intro To MMTF/Regenrated Fibers.md",
-    "MMTF/Intro To MMTF/Inorganic Fibers.md"
+    "MMTF/Intro To MMTF/Regenrated Fibers.md"
   ]
 }
