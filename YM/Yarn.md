@@ -1,10 +1,8 @@
 [[Spun Yarn]]
 -   **The following three characteristics are evident for staple spun yarn:**
-- -   1. A linear assembly of fibers. The assembly could be of any thickness
-    
--   2. The fibers are held together by twist. However, other means may be used to achieve cohesion
-    
--   3. There is a tendency for fibers to lie in parallel along the twist spiral.
+1. A linear assembly of fibers. The assembly could be of any thickness
+2. The fibers are held together by twist. However, other means may be used to achieve cohesion
+3. There is a tendency for fibers to lie in parallel along the twist spiral.
 ---
 #### Classification of Yarn
 

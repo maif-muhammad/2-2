@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7934a7fa0e089b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FM/Manufacturing Steps of Woven Fabrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a44451ee04f203c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YM/Introduction.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c109be1be2a1c480",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
